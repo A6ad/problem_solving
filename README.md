@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 Submissions
 ======================
-> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
+> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)^t^z
 
 ## Introduction
 
@@ -12,3 +13,4 @@ A repository to keep track of problem solving practice, containing solutions fro
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
 {submission_placeholder}
+
